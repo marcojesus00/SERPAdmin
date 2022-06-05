@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <parametros>
+   <name codigo="principal">
+     <servidor>127.0.0.1</servidor>
+     <usuario>sa</usuario>
+     <clave>Sarita01</clave>
+     <bd>SERP</bd>
+   </name>
+ </parametros>
